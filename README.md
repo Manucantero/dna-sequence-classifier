@@ -12,7 +12,6 @@ Command-line bioinformatics tool developed in C++ for analyzing genetic sequence
 ## Repository Structure
 
 - **`/src` & `/include`:** Core C++ implementation (`.cpp`) and header files (`.h`) for *k*-mer representation, frequency profiles, file I/O, and classification logic.
-- **`/data`:** Reference DNA sequence datasets and sample inputs.
 - **`/tests`:** Test suite validating data structures, sorting, and classification outputs.
 - **`/scripts`:** Automation scripts for batch training and evaluation.
 - **`Makefile` & `perfil.dat`:** Build configuration and sample generated profile data.
